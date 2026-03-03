@@ -1,0 +1,7 @@
+{
+  "terraform.languageServer.args": [
+    "serve"
+  ],
+  "terraform.mcp.server.enable": true,
+  "terraform.experimentalFeatures.validateOnSave": false
+}
